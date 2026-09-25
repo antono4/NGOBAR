@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/NGOBAR"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/NGOBAR-blue?logo=github"></a>
   <a href="https://antono4.github.io/NGOBAR/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-120-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-25 22:30:28 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-26 02:29:49 WIB-lightgrey">
 </p>
 
 ---
@@ -80,5 +80,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-25 22:30:28 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
-Last updated: 2026-09-26 00:53:12 WIB
+<sub>README ini di-generate otomatis pada **2026-09-26 02:29:49 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
